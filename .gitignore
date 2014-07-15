@@ -1,0 +1,15 @@
+.idea
+**/dependency-reduced-pom.xml
+*.log
+*.log.gz
+target
+.classpath
+.project
+.settings
+*.iml
+.DS_Store
+*.xcuserstate
+caches/
+out
+logs
+lib
